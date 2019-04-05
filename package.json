@@ -1,0 +1,19 @@
+{
+  "name": "techview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "kerron gordon",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-materialize": "^2.6.0"
+  }
+}
